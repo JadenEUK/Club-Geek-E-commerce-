@@ -19,7 +19,7 @@ const crearNuevoProducto = (imageUrl, name, price, id) => {
 const seccionProductos = document.querySelector('[data-product="productos"]');
 
 const listaProductos = () => {
-    return fetch("http://localhost:3000/producto").then((respuesta) => respuesta.json()
+    return fetch("https://simulacro-api.vercel.app/producto").then((respuesta) => respuesta.json()
     );  
 }
 

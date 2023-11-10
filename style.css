@@ -125,7 +125,7 @@
   
   .login-btn button:hover {
     background: linear-gradient(-45deg, #e81cff 0%, #40c9ff 100%);
-    color: white;
+    color: rgb(255, 255, 255);
     border: none;
   }
   
