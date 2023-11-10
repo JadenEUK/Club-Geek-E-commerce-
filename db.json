@@ -1,0 +1,126 @@
+{
+    "producto": [
+      {
+        "name": "Control de Xbox",
+        "imageUrl": "/images/consolas-1.png",
+        "price": "$30.00",
+        "id": 1,
+        "alt": "Product",
+        "section": "Star Wars",
+        "description": ""
+      },
+      {
+        "name": "PlayStation 5",
+        "imageUrl": "/images/consolas-2.png",
+        "price": "$499.99",
+        "description": "",
+        "id": 4
+      },
+      {
+        "name": "Super Nintendo",
+        "imageUrl": "/images/consolas-3.png",
+        "price": "$149.99",
+        "id": 6,
+        "description": ""
+      },
+      {
+        "name": "Nintendo Switch",
+        "imageUrl": "/images/consolas-4.png",
+        "price": "$349.00",
+        "id": 7,
+        "description": "Funko Flash"
+      },
+      {
+        "name": "Game Boy Color",
+        "imageUrl": "/images/consolas-6.png",
+        "price": "$97.24",
+        "id": 8,
+        "description": "Apenas um teste!"
+      },
+      {
+        "name": "Xbox Series X",
+        "imageUrl": "/images/consolas-5.png",
+        "price": "$499.99",
+        "id": 14
+      },
+      {
+        "name": "Darth Vader",
+        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
+        "price": "$17.69",
+        "id": 15
+      },
+      {
+        "name": "Yoda",
+        "imageUrl": "/images/grogu-exposito.png",
+        "price": "$12.97",
+        "id": 16,
+        "description": "25"
+      },
+      {
+        "name": "Mini Darth",
+        "imageUrl": "/images/mini darth.png",
+        "price": "$10.94",
+        "id": 17
+      },
+      {
+        "name": "Hulk",
+        "imageUrl": "https://m.media-amazon.com/images/I/516X0YLRV+L._AC_SY879_.jpg",
+        "price": "$30.98",
+        "id": 18
+      },
+      {
+        "name": "Hombre araña",
+        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_620343-MLA45333647274_032021-O.webp",
+        "price": "$39.99",
+        "id": 19
+      },
+      {
+        "name": "Capitán America",
+        "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
+        "price": "$19.00",
+        "id": 20
+      },
+      {
+        "name": "Super Man",
+        "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
+        "price": "$15.90",
+        "id": 21
+      },
+      {
+        "name": "Flash",
+        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+        "price": "$34.45",
+        "id": 22
+      },
+      {
+        "name": "Batman",
+        "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+        "price": "$11.99.",
+        "id": 23
+      },
+      {
+        "name": "Taza Trooper",
+        "imageUrl": "/images/taza trupper.png",
+        "price": "$19.99",
+        "id": 26
+      },
+      {
+        "name": "Harry Potter",
+        "imageUrl": "/images/harry-potter.png",
+        "price": "$14.00",
+        "id": 28
+      },
+      {
+        "name": "Mandalorian",
+        "imageUrl": "/images/mandalorian.png",
+        "price": "$24.98",
+        "id": 29
+      },
+      {
+        "name": "Xbox 360",
+        "imageUrl": "https://www.laprensa.hn/binrepository/389x400/0c0/0d0/none/11004/VONQ/20070705_204499_0_LP647969_MG103252758.jpg",
+        "price": "$241.88.",
+        "id": 30
+      }
+    ]
+  }
